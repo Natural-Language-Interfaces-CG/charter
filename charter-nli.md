@@ -2,9 +2,9 @@
 
 The **mission** of the <a href="https://www.w3.org/community/nli/">NLIWoD Community Group</a> is to provide standards to analyze, model, unify, test, benchmark and enhance natural language interfaces for the Web of Data. The core goal is to improve the reusability of systems and to increase as well as measure their quality and performance in an effective and efficient way. 
 
-The group aims at developing modules, benchmarks and test standards as well as an unified data vocabulary and ontology to foster a growing interface landscape. This includes question answering, information retrieval, keyword search, answer verbalisation and so on. 
+The group aims at developing modules, benchmarks and test standards as well as unified data vocabularies and ontologies to foster a growing interface landscape. Topics relevant to the community group include question answering, information retrieval, keyword search, answer verbalisation and so on. 
 
-Furthermore, the NLIWoD CG will incubate a wide and collaborative environment for researchers, companies and practitioners. We hope, that research as well as industry projects will support and benefit from this community group’s activity.
+Furthermore, the NLIWoD CG will incubate a wide and collaborative environment for researchers, companies and practitioners. The group hopes, that research as well as industry projects will support and benefit from this community group’s activity.
 
 [Join the NLIWoD Working Group.](https://www.w3.org/community/wp-login.php?redirect_to=%2Fcommunity%2Fnli%2Fjoin)
 
@@ -17,7 +17,7 @@ Furthermore, the NLIWoD CG will incubate a wide and collaborative environment fo
 
 ## Meeting Schedule
 
- * Teleconferences: monthly telcos to align work
+ * Teleconferences: bi-monthly telcos to align work
  * Face-to-face: TBA; additional face-to-face meetings may be scheduled by consent of the participants, no more than 3 per year.
 
 ## Scope
@@ -25,16 +25,16 @@ Furthermore, the NLIWoD CG will incubate a wide and collaborative environment fo
 The scope of this CG is threefold:
 
 1. It seeks consensus for best practices pertaining to the publication of natural language interfaces in the Web of Data.
-2. We will collaborate to enhance testing and benchmarking environments for natural language interfaces for the Web of Data.
+2. The CG will collaborate to enhance testing and benchmarking environments for natural language interfaces for the Web of Data.
 3. The core goal is to improve the reusability as well as quality and efficieny of NLIWoD systems by introducing best practices.
 
 ### Out of Scope
 
 The following features are out of scope, and will not be addressed by this working group.
 
-* We will not develop new NLIWoD systems. 
+* The CG will not develop new NLIWoD systems. 
 
-### Success Criteria
+### Criteria towards Recommendation Proposals
 
 In order to advance to [Proposed Recommendation](https://www.w3.org/2015/Process-20150901/#RecsCR "Proposed Recommendation"), each specification is expected to have at least two independent implementations of each of feature defined in the specification.
 
@@ -60,10 +60,14 @@ More detailed milestones and updated publication schedules are available on the 
 The elicitation will follow the group discussions (telcos) and external input from research projects as well as industry statements. 
 
 
-### External Organizations
+### External Organizations and Projects
 
 External organizations can enhance the work of this CG by providing input via the mailing list, participation in telcos and face-to-face meetings. They are also invited to join the CG directly. 
 
+#### Organizations
+ * The Agile Knowledge Engineering and Semantic Web Group (http://aksw.org/About.html)
+
+#### Projects
  * Eurostars project QAMEL (http://qamel.eu/)
  * Eurostars project DIESEL (http://diesel-project.eu/)
  * WDAqua ITN Answering Questions using Web Data (http://wdaqua.informatik.uni-bonn.de/)
