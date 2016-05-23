@@ -1,11 +1,10 @@
-
 # Natural Language Interfaces for the Web of Data (NLIWoD) Community Group Charter
 
 The **mission** of the <a href="https://www.w3.org/community/nli/">NLIWoD Community Group</a> is to provide standards to analyze, model, unify, test, benchmark and enhance natural language interfaces for the Web of Data. The core goal is to improve the reusability of systems and to increase as well as measure their quality and performance in an effective and efficient way. 
 
 The group aims at developing modules, benchmarks and test standards as well as an unified data vocabulary and ontology to foster a growing interface landscape. This includes question answering, information retrieval, keyword search, answer verbalisation and so on. 
 
-Furthermore, the NLIWoD CG will incubate a wide and collaborative environment for researchers, industrials and practitioners. We hope, that research as well as industry projects will support and benefit of this community group’s activity.
+Furthermore, the NLIWoD CG will incubate a wide and collaborative environment for researchers, companies and practitioners. We hope, that research as well as industry projects will support and benefit from this community group’s activity.
 
 [Join the NLIWoD Working Group.](https://www.w3.org/community/wp-login.php?redirect_to=%2Fcommunity%2Fnli%2Fjoin)
 
@@ -24,9 +23,10 @@ Furthermore, the NLIWoD CG will incubate a wide and collaborative environment fo
 ## Scope
 
 The scope of this CG is threefold:
- (1) It seeks consensus for best practices pertaining to the publication of natural language interfaces in the Web of Data.
- (2) We will collaborate to enhance testing and benchmarking environments for natural language interfaces for the Web of Data.
- (3) The core goal is to improve the reusability as well as quality and efficieny of NLIWoD systems by introducing best practices.
+
+1. It seeks consensus for best practices pertaining to the publication of natural language interfaces in the Web of Data.
+2. We will collaborate to enhance testing and benchmarking environments for natural language interfaces for the Web of Data.
+3. The core goal is to improve the reusability as well as quality and efficieny of NLIWoD systems by introducing best practices.
 
 ### Out of Scope
 
@@ -46,10 +46,11 @@ More detailed milestones and updated publication schedules are available on the 
 
  * Milestone 1 (Q4/2016)
    * Requirements for NLI Benchmarks
-   * First test suite including varios datasets as well as benchmark queries
+   * First test suite including various datasets as well as benchmark queries
    * First specification of benchmarking methods 
+
 * Milestone 2 (Q2/2017)
-   * Best practices for publishing natural language interfaces (and modules) on the web to tackle heterogenous machine-interaces
+   * Best practices for publishing natural language interfaces (and modules) on the web to tackle heterogeneous machine-interfaces
    * Second test suite extending datasets and benchmark queries
    * Improved specification of benchmarking methods 
 
@@ -61,7 +62,7 @@ The elicitation will follow the group discussions (telcos) and external input fr
 
 ### External Organizations
 
-External organizations can enhance the work of this CG by providing input via the mailing list, participation in telcos and face-to-face meetings. Their are also invited to join the CG directly. 
+External organizations can enhance the work of this CG by providing input via the mailing list, participation in telcos and face-to-face meetings. They are also invited to join the CG directly. 
 
  * Eurostars project QAMEL (http://qamel.eu/)
  * Eurostars project DIESEL (http://diesel-project.eu/)
