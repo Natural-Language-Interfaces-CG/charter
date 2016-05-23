@@ -1,7 +1,11 @@
 
 # Natural Language Interfaces for the Web of Data (NLIWoD) Community Group Charter
 
-The **mission** of the <a href="https://www.w3.org/community/nli/">NLIWoD Community Group</a> is to provide methods to analyze, model, unify and enhance natural language interfaces for the Web of Data. The core goal is to improve the reusability of systems and to increase their quality and performance. The group will develop diverse modules as well as an unified data vocabulary and ontology to foster a growing interface landscape. This includes question answering, information retrieval, keyword search, answer verbalisation and so on. Furthermore, the NLIWoD CG will incubate a wide and collaborative environment for researchers, industrials and practitioners. We hope, that research as well as industry projects will support and benefit of this community group’s activity.
+The **mission** of the <a href="https://www.w3.org/community/nli/">NLIWoD Community Group</a> is to provide standards to analyze, model, unify, test, benchmark and enhance natural language interfaces for the Web of Data. The core goal is to improve the reusability of systems and to increase as well as measure their quality and performance in an effective and efficient way. 
+
+The group aims at developing modules, benchmarks and test standards as well as an unified data vocabulary and ontology to foster a growing interface landscape. This includes question answering, information retrieval, keyword search, answer verbalisation and so on. 
+
+Furthermore, the NLIWoD CG will incubate a wide and collaborative environment for researchers, industrials and practitioners. We hope, that research as well as industry projects will support and benefit of this community group’s activity.
 
 [Join the NLIWoD Working Group.](https://www.w3.org/community/wp-login.php?redirect_to=%2Fcommunity%2Fnli%2Fjoin)
 
@@ -15,19 +19,20 @@ The **mission** of the <a href="https://www.w3.org/community/nli/">NLIWoD Commun
 ## Meeting Schedule
 
  * Teleconferences: monthly telcos to align work
- * Face-to-face: TBA; additional face-to-face meetings may be scheduled by consent of the participants, no more than 3 per year. 
- *  **(Discuss https://www.w3.org/blog/2015/09/tpac-2016-dates-and-location-announced/)**
-
+ * Face-to-face: TBA; additional face-to-face meetings may be scheduled by consent of the participants, no more than 3 per year.
 
 ## Scope
 
-
-
+The scope of this CG is threefold:
+ (1) It seeks consensus for best practices pertaining to the publication of natural language interfaces in the Web of Data.
+ (2) We will collaborate to enhance testing and benchmarking environments for natural language interfaces for the Web of Data.
+ (3) The core goal is to improve the reusability as well as quality and efficieny of NLIWoD systems by introducing best practices.
 
 ### Out of Scope
 
 The following features are out of scope, and will not be addressed by this working group.
 
+* We will not develop new NLIWoD systems. 
 
 ### Success Criteria
 
@@ -39,23 +44,30 @@ Each specification should contain a section detailing any known security or priv
 
 More detailed milestones and updated publication schedules are available on the [group publication status page](https://www.w3.org/wiki/nli/PubStatus).
 
-**(Discuss normative reports and non-normative documents such as use case reports, requirements, test suites, implementations, primers and best practices)**
+ * Milestone 1 (Q4/2016)
+   * Requirements for NLI Benchmarks
+   * First test suite including varios datasets as well as benchmark queries
+   * First specification of benchmarking methods 
+* Milestone 2 (Q2/2017)
+   * Best practices for publishing natural language interfaces (and modules) on the web to tackle heterogenous machine-interaces
+   * Second test suite extending datasets and benchmark queries
+   * Improved specification of benchmarking methods 
 
 
 ## Coordination
 
-**(Discuss: How to elicitate requirements and specifications?)**
-**(Discuss: Is there something related to CGs?)**
-
+The elicitation will follow the group discussions (telcos) and external input from research projects as well as industry statements. 
 
 
 ### External Organizations
 
- * QAMEL
- * DIESEL
- * WDAQUA
- * HOBBIT
- * OKBQA
+External organizations can enhance the work of this CG by providing input via the mailing list, participation in telcos and face-to-face meetings. Their are also invited to join the CG directly. 
+
+ * Eurostars project QAMEL (http://qamel.eu/)
+ * Eurostars project DIESEL (http://diesel-project.eu/)
+ * WDAqua ITN Answering Questions using Web Data (http://wdaqua.informatik.uni-bonn.de/)
+ * HOBBIT - Holistic Benchmarking of Big Linked Data (http://project-hobbit.eu/)
+ * OKBQA - Open Knowledge Base and Question-Answering community (http://www.okbqa.org/)
 
 ## Participation
 
@@ -66,10 +78,7 @@ The group also welcomes non-Members to contribute technical submissions for cons
 
 ## Communication
 
-**(Discuss: Is there something related to CGs?)**
-
-
-Meeting minutes from teleconference and face-to-face meetings will be archived for public review, and technical discussions and issue tracking will be conducted in a manner that can be both read and written to by the general public. Working Drafts and Editor's Drafts of specifications will be developed on a public repository, and may permit direct public contribution requests.
+Meeting minutes from teleconference and face-to-face meetings will be archived for public review, and technical discussions and issue tracking will be conducted in a manner that can be both read and written to by the general public. Working Drafts and Editor's Drafts of specifications will be developed on a <a href="https://github.com/Natural-Language-Interfaces-CG">public repository</a>, and may permit direct public contribution requests.
 
 Information about the group (including details about deliverables, issues, actions, status, participants, and meetings) will be available from the <a href="https://www.w3.org/community/nli/">NLIWoD Community Group home page.</a>
 
