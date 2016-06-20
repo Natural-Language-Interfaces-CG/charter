@@ -1,6 +1,6 @@
 # Natural Language Interfaces for the Web of Data (NLIWoD) Community Group Charter
 
-The **mission** of the <a href="https://www.w3.org/community/nli/">NLIWoD Community Group</a> is to provide standards to analyze, model, unify, test, benchmark and enhance natural language interfaces for the Web of Data. The core goal is to improve the reusability of systems and to increase as well as measure their quality and performance in an effective and efficient way. 
+The **mission** of the <a href="https://www.w3.org/community/nli/">NLIWoD Community Group</a> is to provide standards to analyze, model, unify, test, benchmark and enhance natural language interfaces for the Web of Data. The core goal is to improve the reusability of systems as well as benchmark datasets and to increase as well as measure their quality and performance in an effective and efficient way.
 
 The group aims at developing modules, benchmarks and test standards as well as unified data vocabularies and ontologies to foster a growing interface landscape. Topics relevant to the community group include question answering, information retrieval, keyword search, answer verbalisation and so on. 
 
@@ -45,11 +45,17 @@ Each specification should contain a section detailing any known security or priv
 More detailed milestones and updated publication schedules are available on the [group publication status page](https://www.w3.org/wiki/nli/PubStatus).
 
  * Milestone 1 (Q4/2016)
+   * Draft for a first test suite including various datasets as well as benchmark queries
+   * Draft for a first specification of benchmarking methods 
+   * Collection of existing interfaces for NLI systems on the Web
+
+ * Milestone 2 (Q2/2016)
    * Requirements for NLI Benchmarks
    * First test suite including various datasets as well as benchmark queries
    * First specification of benchmarking methods 
+   * Draft for best practices for publishing natural language interfaces (and modules) on the web which unifies different approaches
 
-* Milestone 2 (Q2/2017)
+* Milestone 3 (Q4/2017)
    * Best practices for publishing natural language interfaces (and modules) on the web to tackle heterogeneous machine-interfaces
    * Second test suite extending datasets and benchmark queries
    * Improved specification of benchmarking methods 
@@ -73,6 +79,9 @@ External organizations can enhance the work of this CG by providing input via th
  * WDAqua ITN Answering Questions using Web Data (http://wdaqua.informatik.uni-bonn.de/)
  * HOBBIT - Holistic Benchmarking of Big Linked Data (http://project-hobbit.eu/)
  * OKBQA - Open Knowledge Base and Question-Answering community (http://www.okbqa.org/)
+
+#### Mailinglists
+ * Question Answering Interest Group qaig@googlegroups.com, founded in 2014 to accomplish a unification of German QA researches
 
 ## Participation
 
