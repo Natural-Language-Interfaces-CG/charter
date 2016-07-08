@@ -1,10 +1,10 @@
-# Natural Language Interfaces for the Web of Data (NLIWoD) Community Group Charter
+# Natural Language Interfaces for the Web of Data (NLIWoD) Community Group Charter (V1.0.0)
 
 The **mission** of the <a href="https://www.w3.org/community/nli/">NLIWoD Community Group</a> is to provide standards to analyze, model, unify, test, benchmark and enhance natural language interfaces for the Web of Data. The core goal is to improve the reusability of systems as well as benchmark datasets and to increase as well as measure their quality and performance in an effective and efficient way.
 
-The group aims at developing modules, benchmarks and test standards as well as unified data vocabularies and ontologies to foster a growing interface landscape. Topics relevant to the community group include question answering, information retrieval, keyword search, answer verbalisation and so on. 
+The group will develop at developing modules, benchmarks and test standards as well as unified data vocabularies and ontologies to foster a growing interface landscape. Topics relevant to the community group include all topics related to question answering, information retrieval, keyword search, answer verbalisation. 
 
-Furthermore, the NLIWoD CG will incubate a wide and collaborative environment for researchers, companies and practitioners. The group hopes, that research as well as industry projects will support and benefit from this community group’s activity.
+Furthermore, the NLIWoD CG will incubate a wide and collaborative environment for researchers, companies and practitioners. The group hopes that research as well as industry projects will support and benefit from this community group’s activity.
 
 [Join the NLIWoD Working Group.](https://www.w3.org/community/wp-login.php?redirect_to=%2Fcommunity%2Fnli%2Fjoin)
 
@@ -18,7 +18,7 @@ Furthermore, the NLIWoD CG will incubate a wide and collaborative environment fo
 ## Meeting Schedule
 
  * Teleconferences: bi-monthly telcos to align work
- * Face-to-face: TBA; additional face-to-face meetings may be scheduled by consent of the participants, no more than 3 per year.
+ * Face-to-face: TBA; additional face-to-face meetings may be scheduled by consent of the participants, no more than 3 ordinary per year.
 
 ## Scope
 
@@ -49,7 +49,7 @@ More detailed milestones and updated publication schedules are available on the 
    * Draft for a first specification of benchmarking methods 
    * Collection of existing interfaces for NLI systems on the Web
 
- * Milestone 2 (Q2/2016)
+ * Milestone 2 (Q2/2017)
    * Requirements for NLI Benchmarks
    * First test suite including various datasets as well as benchmark queries
    * First specification of benchmarking methods 
@@ -81,7 +81,7 @@ External organizations can enhance the work of this CG by providing input via th
  * OKBQA - Open Knowledge Base and Question-Answering community (http://www.okbqa.org/)
 
 #### Mailinglists
- * Question Answering Interest Group qaig@googlegroups.com, founded in 2014 to accomplish a unification of German QA researches
+ * Question Answering Interest Group qaig@googlegroups.com, founded in 2014 to accomplish a unification of German QA research
 
 ## Participation
 
@@ -118,7 +118,7 @@ This charter is written in accordance with the [W3C Process Document (Section 3.
 
 ## Patent Policy
 
-This Community Group operates under the [W3C Patent Policy](http://w3.org/Consortium/Patent-Policy-20040205/) (5 February 2004 Version). To promote the widest adoption of Web standards, W3C seeks to issue Recommendations that can be implemented, according to this policy, on a Royalty-Free basis. For more information about disclosure obligations for this group, please see the [W3C Patent Policy Implementation](https://www.w3.org/2004/01/pp-impl/).
+This Community Group operates under the [W3C Patent Policy](http://w3.org/Consortium/Patent-Policy-20040205/) (5 February 2004 Version). To promote the widest adoption of Web standards, the group seeks to issue Recommendations that can be implemented, according to this policy, on a Royalty-Free basis. For more information about disclosure obligations for this group, please see the [W3C Patent Policy Implementation](https://www.w3.org/2004/01/pp-impl/).
 
 
 ## Licensing
